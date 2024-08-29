@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&display=swap');
+.all{
+/*  background-image: url(background.jpg);*/
+  height: 800px;
+}
+.confirm{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  font-family: "Matemasie", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.pic{
+  margin-top:200px;
+}
+.button{
+  margin-top: 20px;
+}
